@@ -1,0 +1,8 @@
+VPint @ git+https://github.com/ADA-research/VPint.git@c1d6781e7cac61a6724619e40b65e39f9d5cee3c
+
+numpy==1.26.4
+pandas<2.3
+scipy<1.15
+scikit-learn<1.6
+pykrige
+matplotlib
