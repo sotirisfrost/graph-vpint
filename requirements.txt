@@ -6,3 +6,4 @@ scipy<1.15
 scikit-learn<1.6
 pykrige
 matplotlib
+jupyter
